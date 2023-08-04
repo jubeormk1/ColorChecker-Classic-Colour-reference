@@ -1,0 +1,32 @@
+{
+    "ColorChecker-Classic-Colour-reference_rgb":
+    {
+        "01 dark skin":[115,82,67],
+        "02 light skin":[194,151,131],
+        "03 blue sky":[97, 123, 159],
+        "04 foliage":[93, 116, 71],
+        "05 blue flower":[134,129,178],
+        "06 bluish green":[104, 192,174],
+
+        "07 orange":[217,128,43],
+        "08 purplish blue":[79,90,168],
+        "09 moderate red":[196,91,100],
+        "10 purple":[95,59,109],
+        "11 yellow green":[158,188,60],
+        "12 orange yellow":[226,166,44],
+
+        "13 blue":[53,60,151],
+        "14 green":[69,148,70],
+        "15 red":[176,50,58],
+        "16 yellow":[232,200,25],
+        "17 magenta":[190,87,152],
+        "18 cyan":[1,136,169],
+
+        "19 white":[243,243,243],
+        "20 neutral 8":[201,201,201],
+        "21 neutral 6.5":[163,163,163],
+        "22 neutral 5":[124,124,124],
+        "23 neutral 3.5":[85,85,85],
+        "24 black":[48,48,48]
+    }
+}
