@@ -10,7 +10,8 @@ If you are not familiar with CIE Lab colour space x-rite has a simple [article](
 
 ## Reference images
 
-The file `CCC-MINI_Main_CIE_Lab_colours_rgb.png`, `CCC-MINI_Main_CIE_Lab_colours_rgb.jpg` and `CCC-MINI_Main_CIE_Lab_colours_rgb.png` are pretty close to the colour codes but there are two discrepancies in the values `CCC-MINI_Main_CIE_Lab_colours_rgb.differences.json` explains the differences.
+The file `CCC-MINI_Main_CIE_Lab_colours_rgb.png`, `CCC-MINI_Main_CIE_Lab_colours_rgb.jpg` and `CCC-MINI_Main_CIE_Lab_colours_rgb.png` are pretty close to the colour codes but there are two discrepancies in the values `CCC-MINI_Main_CIE_Lab_colours_rgb.differences.json` explains the differences. The bmp version is a mess.
 
 The original file `CCC-MINI_Main_CIE_Lab_colours_stack.xcf` is the most accurate one but not straight forward to work with (to my knowledge).
 
+![CCC-MINI_Main_CIE_Lab_colours_rgb](https://github.com/jubeormk1/ColorChecker-Classic-Colour-reference/assets/48457722/e036166a-3ab3-44d2-944c-702bce360452)
